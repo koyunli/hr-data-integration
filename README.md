@@ -72,7 +72,7 @@ This project was created as part of a data preparation practice for an internshi
 It highlights core skills in API usage, data cleaning, integration, visualization, and documentation.
 
 ### 1. Average Working Hours by Department  
-![Department Chart](docs/avg_hours_by_department.png)
+![Department Chart](docs/department.png)
 
 ### 2. Average Working Hours by Gender  
 ![Gender Chart](docs/avg_hours_by_gender.png)
